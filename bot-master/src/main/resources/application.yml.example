@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: bot2
+yt4j:
+  telegram:
+    token: your_bot_token
+    bot-username: your_bot_username
+    coze-ai-token: coze的token
+    coze-bot-id: code的bot id
+    coze-cn: cn     com是国际版
+    group-id: 群组ID
+    channel-id: 公榜频道ID
+    report-channel-id: 报告频道ID
+    use-ai-del: 是否使用AI删除
+    ai-del-threshold: AI删除的阈值
